@@ -1,2 +1,2 @@
-# youtube-ads-skipper
+# youtube ads skipper
 Easy Youtube Ads Skipper Code
