@@ -12,7 +12,7 @@ const buttonSkipper1 = document.querySelector('.ytp-ad-skip-button');
 const buttonSkipper2 = document.querySelector('.ytp-ad-overlay-close-button'); 
 
   if(buttonSkipper1) {
-    buttonSkipper.click(); 
+    buttonSkipper1.click(); 
     console.log('ads skip.')
 } else if(buttonSkipper2){
   buttonSkipper2.click(); 
